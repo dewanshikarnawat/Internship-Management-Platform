@@ -206,4 +206,3 @@ npm run dev
 
 *Built with ❤️ — Incipio Premium Platform*
 =======
-# Internship-Management-Platform
