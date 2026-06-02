@@ -753,7 +753,7 @@ export default function App() {
         prev.map((user) => (user.id === userId ? updated : user))
       );
 
-      // If active userG«÷s role was changed, update their running state
+      // If active userG√á√ñs role was changed, update their running state
       if (currentUser && userId === currentUser.id) {
         setCurrentRole(newRole);
         setCurrentUser(updated);
@@ -801,7 +801,7 @@ export default function App() {
                 onClick={() => setIsBrowsing(false)}
                 className="text-xs font-semibold text-editorial hover:underline cursor-pointer"
               >
-                GÂ… Back to Home
+                G√•√â Back to Home
               </button>
               <span className="h-4 w-px bg-cream-accent mx-2" />
               <span className="text-[10px] font-mono tracking-widest text-[#64748B] bg-[#F9F8F6] px-2 py-0.5 rounded border border-[#E5E2DE] uppercase">
