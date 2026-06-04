@@ -125,6 +125,14 @@ JSON Response { success: true, url: "https://res.cloudinary.com/..." }
 ```
 
 ---
+## Dashboard
+<img width="1920" height="952" alt="Screenshot (499)" src="https://github.com/user-attachments/assets/96a384cc-76e2-46c5-8039-3bd47f40b200" />
+
+## Application Dossier & Verification Page
+<img width="1920" height="956" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/7060d9e6-2039-45a7-83de-554e1bddc389" />
+<img width="1920" height="956" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/4ac4ce9b-64fd-4795-ac53-386ff93b83f3" />
+<img width="1920" height="956" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/c5340baf-0f3d-4185-8216-51dfb87c88bc" />
+
 
 ## 🌐 API Reference
 
